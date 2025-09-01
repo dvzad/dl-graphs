@@ -1,22 +1,7 @@
 [
   {
-    "date": "2025-08-28",
+    "date": "2025-09-01",
     "price": 891,
-    "sales_point": 4
-  },
-  {
-    "date": "2025-08-29",
-    "price": 891,
-    "sales_point": 7
-  },
-  {
-    "date": "2025-08-30",
-    "price": 891,
-    "sales_point": 10
-  },
-  {
-    "date": "2025-08-31",
-    "price": 891,
-    "sales_point": 11
+    "sales_point": 13
   }
 ]

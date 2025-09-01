@@ -1,37 +1,7 @@
 [
   {
-    "date": "2025-08-25",
+    "date": "2025-09-01",
     "price": 825,
-    "sales_point": 7
-  },
-  {
-    "date": "2025-08-26",
-    "price": 825,
-    "sales_point": 24
-  },
-  {
-    "date": "2025-08-27",
-    "price": 825,
-    "sales_point": 26
-  },
-  {
-    "date": "2025-08-28",
-    "price": 825,
-    "sales_point": 34
-  },
-  {
-    "date": "2025-08-29",
-    "price": 825,
-    "sales_point": 40
-  },
-  {
-    "date": "2025-08-30",
-    "price": 825,
-    "sales_point": 45
-  },
-  {
-    "date": "2025-08-31",
-    "price": 825,
-    "sales_point": 52
+    "sales_point": 58
   }
 ]

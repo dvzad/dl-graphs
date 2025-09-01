@@ -1,57 +1,7 @@
 [
   {
-    "date": "2025-08-20",
+    "date": "2025-09-01",
     "price": 880,
-    "sales_point": 0
-  },
-  {
-    "date": "2025-08-22",
-    "price": 880,
-    "sales_point": 623
-  },
-  {
-    "date": "2025-08-23",
-    "price": 880,
-    "sales_point": 668
-  },
-  {
-    "date": "2025-08-24",
-    "price": 880,
-    "sales_point": 712
-  },
-  {
-    "date": "2025-08-25",
-    "price": 880,
-    "sales_point": 732
-  },
-  {
-    "date": "2025-08-26",
-    "price": 880,
-    "sales_point": 757
-  },
-  {
-    "date": "2025-08-27",
-    "price": 880,
-    "sales_point": 767
-  },
-  {
-    "date": "2025-08-28",
-    "price": 880,
-    "sales_point": 782
-  },
-  {
-    "date": "2025-08-29",
-    "price": 880,
-    "sales_point": 794
-  },
-  {
-    "date": "2025-08-30",
-    "price": 880,
-    "sales_point": 814
-  },
-  {
-    "date": "2025-08-31",
-    "price": 880,
-    "sales_point": 823
+    "sales_point": 845
   }
 ]
