@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2025-08-29",
+    "price": 990,
+    "sales_point": 72
+  },
+  {
+    "date": "2025-08-30",
+    "price": 990,
+    "sales_point": 109
+  },
+  {
+    "date": "2025-08-31",
+    "price": 990,
+    "sales_point": 130
+  }
+]

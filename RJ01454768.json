@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2025-08-23",
+    "price": 880,
+    "sales_point": 14
+  },
+  {
+    "date": "2025-08-24",
+    "price": 880,
+    "sales_point": 23
+  },
+  {
+    "date": "2025-08-25",
+    "price": 880,
+    "sales_point": 32
+  },
+  {
+    "date": "2025-08-26",
+    "price": 880,
+    "sales_point": 37
+  },
+  {
+    "date": "2025-08-27",
+    "price": 880,
+    "sales_point": 40
+  },
+  {
+    "date": "2025-08-28",
+    "price": 880,
+    "sales_point": 44
+  },
+  {
+    "date": "2025-08-29",
+    "price": 880,
+    "sales_point": 49
+  },
+  {
+    "date": "2025-08-30",
+    "price": 880,
+    "sales_point": 54
+  },
+  {
+    "date": "2025-08-31",
+    "price": 880,
+    "sales_point": 61
+  }
+]

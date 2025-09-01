@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-08-26",
+    "price": 1320,
+    "sales_point": 76
+  },
+  {
+    "date": "2025-08-27",
+    "price": 1320,
+    "sales_point": 126
+  },
+  {
+    "date": "2025-08-28",
+    "price": 1320,
+    "sales_point": 166
+  },
+  {
+    "date": "2025-08-29",
+    "price": 1320,
+    "sales_point": 191
+  },
+  {
+    "date": "2025-08-30",
+    "price": 1320,
+    "sales_point": 222
+  },
+  {
+    "date": "2025-08-31",
+    "price": 1320,
+    "sales_point": 250
+  }
+]
