@@ -103,5 +103,10 @@
     "date": "2025-10-16",
     "price": 8800,
     "sales_point": null
+  },
+  {
+    "date": "2025-10-17",
+    "price": 8800,
+    "sales_point": null
   }
 ]
