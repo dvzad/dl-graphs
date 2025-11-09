@@ -308,5 +308,10 @@
     "date": "2025-11-09",
     "price": 605,
     "sales_point": 2
+  },
+  {
+    "date": "2025-11-10",
+    "price": 605,
+    "sales_point": 2
   }
 ]
