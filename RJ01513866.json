@@ -8,5 +8,10 @@
     "date": "2025-11-26",
     "price": 990,
     "sales_point": 40
+  },
+  {
+    "date": "2025-11-27",
+    "price": 990,
+    "sales_point": 40
   }
 ]
