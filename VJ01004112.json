@@ -218,5 +218,10 @@
     "date": "2025-12-20",
     "price": 5830,
     "sales_point": null
+  },
+  {
+    "date": "2025-12-21",
+    "price": 5830,
+    "sales_point": null
   }
 ]
