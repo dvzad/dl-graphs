@@ -403,5 +403,10 @@
     "date": "2025-12-22",
     "price": 748,
     "sales_point": 23
+  },
+  {
+    "date": "2025-12-23",
+    "price": 748,
+    "sales_point": 23
   }
 ]
