@@ -563,5 +563,10 @@
     "date": "2025-12-28",
     "price": 715,
     "sales_point": 49
+  },
+  {
+    "date": "2025-12-29",
+    "price": 715,
+    "sales_point": 49
   }
 ]
