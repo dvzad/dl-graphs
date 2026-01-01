@@ -603,5 +603,10 @@
     "date": "2026-01-01",
     "price": 440,
     "sales_point": 5
+  },
+  {
+    "date": "2026-01-02",
+    "price": 440,
+    "sales_point": 5
   }
 ]

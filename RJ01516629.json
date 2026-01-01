@@ -143,5 +143,10 @@
     "date": "2026-01-01",
     "price": 2310,
     "sales_point": 47
+  },
+  {
+    "date": "2026-01-02",
+    "price": 2310,
+    "sales_point": 48
   }
 ]
