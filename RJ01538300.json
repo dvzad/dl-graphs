@@ -2,21 +2,33 @@
   {
     "date": "2025-12-30",
     "price": 1760,
-    "sales_point": 43
+    "sales_point": 43,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-31",
     "price": 1760,
-    "sales_point": 98
+    "sales_point": 98,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2026-01-01",
     "price": 1760,
-    "sales_point": 125
+    "sales_point": 125,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2026-01-02",
     "price": 1760,
-    "sales_point": 133
+    "sales_point": 141,
+    "rating": 5,
+    "rating_count": 5,
+    "review_count": 1
   }
 ]

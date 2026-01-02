@@ -2,161 +2,257 @@
   {
     "date": "2025-12-02",
     "price": 1100,
-    "sales_point": 377
+    "sales_point": 377,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-03",
     "price": 1100,
-    "sales_point": 586
+    "sales_point": 586,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-04",
     "price": 1100,
-    "sales_point": 702
+    "sales_point": 702,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-05",
     "price": 1100,
-    "sales_point": 787
+    "sales_point": 787,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-06",
     "price": 1100,
-    "sales_point": 874
+    "sales_point": 874,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-07",
     "price": 1100,
-    "sales_point": 949
+    "sales_point": 949,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-08",
     "price": 1100,
-    "sales_point": 996
+    "sales_point": 996,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-09",
     "price": 1100,
-    "sales_point": 1036
+    "sales_point": 1036,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-10",
     "price": 1100,
-    "sales_point": 1092
+    "sales_point": 1092,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-11",
     "price": 1100,
-    "sales_point": 1131
+    "sales_point": 1131,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-12",
     "price": 1100,
-    "sales_point": 1168
+    "sales_point": 1168,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-13",
     "price": 1100,
-    "sales_point": 1205
+    "sales_point": 1205,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-14",
     "price": 1100,
-    "sales_point": 1248
+    "sales_point": 1248,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-15",
     "price": 1100,
-    "sales_point": 1283
+    "sales_point": 1283,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-16",
     "price": 1100,
-    "sales_point": 1313
+    "sales_point": 1313,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-17",
     "price": 1100,
-    "sales_point": 1341
+    "sales_point": 1341,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-18",
     "price": 1100,
-    "sales_point": 1367
+    "sales_point": 1367,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-19",
     "price": 1100,
-    "sales_point": 1375
+    "sales_point": 1375,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-20",
     "price": 1100,
-    "sales_point": 1414
+    "sales_point": 1414,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-21",
     "price": 1100,
-    "sales_point": 1442
+    "sales_point": 1442,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-22",
     "price": 1100,
-    "sales_point": 1464
+    "sales_point": 1464,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-23",
     "price": 1100,
-    "sales_point": 1493
+    "sales_point": 1493,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-24",
     "price": 1100,
-    "sales_point": 1518
+    "sales_point": 1518,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-25",
     "price": 1100,
-    "sales_point": 1545
+    "sales_point": 1545,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-26",
     "price": 1100,
-    "sales_point": 1574
+    "sales_point": 1574,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-27",
     "price": 1100,
-    "sales_point": 1601
+    "sales_point": 1601,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-28",
     "price": 1100,
-    "sales_point": 1622
+    "sales_point": 1622,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-29",
     "price": 1100,
-    "sales_point": 1648
+    "sales_point": 1648,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-30",
     "price": 2200,
-    "sales_point": 1659
+    "sales_point": 1659,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2025-12-31",
     "price": 2200,
-    "sales_point": 1663
+    "sales_point": 1663,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2026-01-01",
     "price": 2200,
-    "sales_point": 1682
+    "sales_point": 1682,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2026-01-02",
     "price": 2200,
-    "sales_point": 1691
+    "sales_point": 1698,
+    "rating": 4.72,
+    "rating_count": 100,
+    "review_count": 1
   }
 ]

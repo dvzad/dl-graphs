@@ -2,11 +2,17 @@
   {
     "date": "2026-01-01",
     "price": 19980,
-    "sales_point": null
+    "sales_point": null,
+    "rating": null,
+    "rating_count": null,
+    "review_count": null
   },
   {
     "date": "2026-01-02",
     "price": 19980,
-    "sales_point": null
+    "sales_point": null,
+    "rating": null,
+    "rating_count": null,
+    "review_count": 0
   }
 ]
