@@ -358,5 +358,13 @@
     "rating": 3.3,
     "rating_count": 10,
     "review_count": 0
+  },
+  {
+    "date": "2026-01-06",
+    "price": 1430,
+    "sales_point": 42,
+    "rating": 3.3,
+    "rating_count": 10,
+    "review_count": 0
   }
 ]
