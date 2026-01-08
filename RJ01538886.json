@@ -66,9 +66,9 @@
   {
     "date": "2026-01-08",
     "price": 2750,
-    "sales_point": 105,
-    "rating": 4,
-    "rating_count": 9,
+    "sales_point": 108,
+    "rating": 4.1,
+    "rating_count": 10,
     "review_count": 0
   }
 ]
