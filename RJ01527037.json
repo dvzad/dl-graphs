@@ -210,9 +210,9 @@
   {
     "date": "2026-01-11",
     "price": 880,
-    "sales_point": 130,
-    "rating": null,
-    "rating_count": null,
+    "sales_point": 131,
+    "rating": 4.6,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
