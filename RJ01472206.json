@@ -922,9 +922,9 @@
   {
     "date": "2026-01-12",
     "price": 165,
-    "sales_point": 45,
-    "rating": null,
-    "rating_count": null,
+    "sales_point": 48,
+    "rating": 4.2,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
