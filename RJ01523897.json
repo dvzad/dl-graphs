@@ -398,5 +398,13 @@
     "rating": null,
     "rating_count": null,
     "review_count": 0
+  },
+  {
+    "date": "2026-02-02",
+    "price": 1771,
+    "sales_point": 24,
+    "rating": null,
+    "rating_count": null,
+    "review_count": 0
   }
 ]
