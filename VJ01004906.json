@@ -1307,8 +1307,8 @@
     "date": "2026-02-15",
     "price": 1980,
     "sales_point": null,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.4,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
