@@ -915,8 +915,8 @@
     "date": "2026-02-16",
     "price": 1100,
     "sales_point": 20,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.8,
+    "rating_count": 5,
     "review_count": 1
   }
 ]
