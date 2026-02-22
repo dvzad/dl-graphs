@@ -522,9 +522,9 @@
   {
     "date": "2026-02-22",
     "price": 1430,
-    "sales_point": 119,
-    "rating": 3.5,
-    "rating_count": 10,
+    "sales_point": 120,
+    "rating": 3.45,
+    "rating_count": 11,
     "review_count": 0
   }
 ]
