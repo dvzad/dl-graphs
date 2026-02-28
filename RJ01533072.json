@@ -529,10 +529,10 @@
   },
   {
     "date": "2026-02-28",
-    "price": 1100,
+    "price": 550,
     "sales_point": 173,
-    "rating": 3.89,
-    "rating_count": 9,
+    "rating": 3.9,
+    "rating_count": 10,
     "review_count": 0
   }
 ]
