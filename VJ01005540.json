@@ -763,8 +763,8 @@
     "date": "2026-03-24",
     "price": 14980,
     "sales_point": null,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.2,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
