@@ -1067,8 +1067,8 @@
     "date": "2026-04-04",
     "price": 1980,
     "sales_point": 63,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.6,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
