@@ -1563,8 +1563,8 @@
     "date": "2026-04-05",
     "price": 825,
     "sales_point": 54,
-    "rating": null,
-    "rating_count": null,
+    "rating": 3.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
