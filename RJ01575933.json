@@ -294,5 +294,13 @@
     "rating": 4.53,
     "rating_count": 101,
     "review_count": 3
+  },
+  {
+    "date": "2026-04-11",
+    "price": 2200,
+    "sales_point": 2194,
+    "rating": 4.54,
+    "rating_count": 102,
+    "review_count": 3
   }
 ]
