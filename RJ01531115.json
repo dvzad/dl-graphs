@@ -963,8 +963,8 @@
     "date": "2026-04-22",
     "price": 880,
     "sales_point": 34,
-    "rating": null,
-    "rating_count": null,
+    "rating": 5,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
