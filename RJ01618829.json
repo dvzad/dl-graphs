@@ -34,9 +34,9 @@
   {
     "date": "2026-05-06",
     "price": 2772,
-    "sales_point": 797,
-    "rating": null,
-    "rating_count": null,
+    "sales_point": 869,
+    "rating": 5,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
