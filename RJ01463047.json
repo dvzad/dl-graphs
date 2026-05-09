@@ -1947,8 +1947,8 @@
     "date": "2026-05-09",
     "price": 880,
     "sales_point": 56,
-    "rating": null,
-    "rating_count": null,
+    "rating": 5,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
