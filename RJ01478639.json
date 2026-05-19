@@ -1859,8 +1859,8 @@
     "date": "2026-05-19",
     "price": 2475,
     "sales_point": 40,
-    "rating": null,
-    "rating_count": null,
+    "rating": 3.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
