@@ -1723,8 +1723,8 @@
     "date": "2026-05-24",
     "price": 968,
     "sales_point": 37,
-    "rating": null,
-    "rating_count": null,
+    "rating": 5,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
