@@ -2161,10 +2161,10 @@
   },
   {
     "date": "2026-06-11",
-    "price": 2970,
+    "price": 1485,
     "sales_point": 81,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.6,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
