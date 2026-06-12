@@ -1,5 +1,13 @@
 [
   {
+    "date": "2024-06-12",
+    "price": 1485,
+    "sales_point": 169,
+    "rating": 4.67,
+    "rating_count": 9,
+    "review_count": 1
+  },
+  {
     "date": "2026-04-08",
     "price": 1386,
     "sales_point": 28,
