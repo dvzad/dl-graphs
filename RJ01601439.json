@@ -537,10 +537,10 @@
   },
   {
     "date": "2026-06-18",
-    "price": 825,
-    "sales_point": 106,
-    "rating": null,
-    "rating_count": null,
+    "price": 1650,
+    "sales_point": 108,
+    "rating": 4.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
