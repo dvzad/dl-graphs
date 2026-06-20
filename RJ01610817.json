@@ -497,10 +497,10 @@
   },
   {
     "date": "2026-06-20",
-    "price": 660,
-    "sales_point": 134,
-    "rating": 4,
-    "rating_count": 7,
+    "price": 1320,
+    "sales_point": 135,
+    "rating": 4.13,
+    "rating_count": 8,
     "review_count": 0
   }
 ]
