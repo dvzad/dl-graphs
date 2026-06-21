@@ -1243,8 +1243,8 @@
     "date": "2026-06-21",
     "price": 495,
     "sales_point": 144,
-    "rating": null,
-    "rating_count": null,
+    "rating": 3.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
