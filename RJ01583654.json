@@ -873,10 +873,10 @@
   },
   {
     "date": "2026-07-03",
-    "price": 1650,
+    "price": 1155,
     "sales_point": 155,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.2,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
