@@ -923,8 +923,8 @@
     "date": "2026-07-18",
     "price": 2310,
     "sales_point": 67,
-    "rating": null,
-    "rating_count": null,
+    "rating": 5,
+    "rating_count": 5,
     "review_count": 1
   }
 ]
