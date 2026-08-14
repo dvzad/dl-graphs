@@ -1057,10 +1057,10 @@
   },
   {
     "date": "2026-08-14",
-    "price": 1980,
-    "sales_point": 125,
-    "rating": null,
-    "rating_count": null,
+    "price": 1386,
+    "sales_point": 126,
+    "rating": 5,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
