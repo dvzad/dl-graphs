@@ -2131,8 +2131,8 @@
     "date": "2026-08-27",
     "price": 1089,
     "sales_point": 36,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.2,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
