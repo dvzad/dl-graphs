@@ -83,8 +83,8 @@
     "date": "2026-08-29",
     "price": 2024,
     "sales_point": 99,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
