@@ -1043,8 +1043,8 @@
     "date": "2026-09-05",
     "price": 605,
     "sales_point": 53,
-    "rating": null,
-    "rating_count": null,
+    "rating": 3.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
