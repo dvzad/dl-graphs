@@ -601,10 +601,10 @@
   },
   {
     "date": "2026-09-28",
-    "price": 495,
-    "sales_point": 69,
-    "rating": null,
-    "rating_count": null,
+    "price": 990,
+    "sales_point": 71,
+    "rating": 4.4,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
