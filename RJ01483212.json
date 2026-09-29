@@ -2849,10 +2849,10 @@
   },
   {
     "date": "2026-09-29",
-    "price": 880,
+    "price": 440,
     "sales_point": 49,
-    "rating": 4,
-    "rating_count": 7,
+    "rating": 4.13,
+    "rating_count": 8,
     "review_count": 0
   }
 ]
