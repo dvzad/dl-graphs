@@ -886,5 +886,13 @@
     "rating": null,
     "rating_count": null,
     "review_count": 1
+  },
+  {
+    "date": "2026-10-19",
+    "price": 1485,
+    "sales_point": 73,
+    "rating": null,
+    "rating_count": null,
+    "review_count": 1
   }
 ]
