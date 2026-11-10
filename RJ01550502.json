@@ -2366,5 +2366,13 @@
     "rating": 5,
     "rating_count": 20,
     "review_count": 0
+  },
+  {
+    "date": "2026-11-11",
+    "price": 4400,
+    "sales_point": 63,
+    "rating": 5,
+    "rating_count": 20,
+    "review_count": 0
   }
 ]
