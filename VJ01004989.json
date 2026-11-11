@@ -3011,8 +3011,8 @@
     "date": "2026-11-11",
     "price": 999,
     "sales_point": null,
-    "rating": null,
-    "rating_count": null,
+    "rating": 4.8,
+    "rating_count": 5,
     "review_count": 0
   }
 ]
